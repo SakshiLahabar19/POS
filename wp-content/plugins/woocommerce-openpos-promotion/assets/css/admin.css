@@ -1,0 +1,20 @@
+.op-conten-wrap{
+    background: #fff;
+    padding: 5px 15px;
+    position: relative;
+}
+#op-stock-loading{
+    position: absolute;
+    background: #000;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    opacity: 0.5;
+    text-align: center;
+    vertical-align: middle;
+    color: red;
+    font-weight: bold;
+    font-size: 20px;
+    padding-top: 20%;
+}

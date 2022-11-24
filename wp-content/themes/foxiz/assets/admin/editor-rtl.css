@@ -1,0 +1,98 @@
+.editor-styles-wrapper ul,
+.editor-styles-wrapper ol {
+    margin-right: 0;
+    margin-left: auto;
+}
+
+.editor-styles-wrapper .block-library-list ol,
+.editor-styles-wrapper .block-library-list ul {
+    padding-left: 0;
+    padding-right: 1em;
+}
+
+.editor-styles-wrapper .wp-caption-text {
+    margin-right: 0;
+    margin-left: auto;
+}
+
+.editor-styles-wrapper .wp-block-quote.is-large .wp-block-quote__citation {
+    text-align: right;
+}
+
+.editor-styles-wrapper .wp-block-quote.has-text-align-left {
+    text-align: right;
+}
+
+.editor-styles-wrapper .wp-block-quote__citation:before, .wp-block-pullquote__citation:before {
+    margin-left: 7px;
+    margin-right: 0;
+}
+
+.editor-styles-wrapper .wp-block-quote.is-large, .wp-block-quote.is-style-large {
+    text-align: right;
+}
+
+.editor-styles-wrapper .wp-block-quote.has-text-align-right {
+    text-align: left !important;
+}
+
+.wp-block-image figcaption, .wp-block-embed figcaption {
+    padding: 5px 10px 0 10px;
+}
+
+.editor-styles-wrapper .wp-caption-text:before,
+.editor-styles-wrapper .wp-block-image figcaption:before {
+    margin-left: 5px;
+}
+
+.editor-styles-wrapper .wp-block-audio figcaption:before {
+    margin-left: 5px;
+}
+
+.editor-styles-wrapper .wp-block-file .wp-block-file__textlink {
+    margin-right: 0;
+    margin-left: auto;
+}
+
+.editor-styles-wrapper table.wp-block-table {
+    border-right: 1px solid rgba(0, 0, 0, .025);
+    border-left: none;
+}
+
+.editor-styles-wrapper .wp-block-table .wp-block-table__cell-conten {
+    text-align: right;
+}
+
+.editor-styles-wrapper ul.wp-block-archives,
+.editor-styles-wrapper ul.wp-block-archives-dropdown,
+.editor-styles-wrapper ul.wp-block-categories,
+.editor-styles-wrapper ul.wp-block-latest-posts,
+.editor-styles-wrapper .wp-block-latest-comments {
+    margin-right: 0;
+    margin-left: auto;
+}
+
+.editor-styles-wrapper ul.wp-block-categories,
+.editor-styles-wrapper ul.wp-block-archives,
+.editor-styles-wrapper ul.wp-block-categories li,
+.editor-styles-wrapper ul.wp-block-archives li,
+.editor-styles-wrapper ul.wp-block-latest-posts li {
+    text-align: right;
+}
+
+.editor-styles-wrapper .wp-block-categories__list a:after,
+.editor-styles-wrapper .wp-block-archives-list a:after {
+    margin-right: 7px;
+    margin-left: 0;
+}
+
+.editor-styles-wrapper .wp-block-categories-list ul ul,
+.editor-styles-wrapper .wp-block-archives-list ul ul {
+    margin-right: 15px;
+    margin-left: 0;
+}
+
+.editor-styles-wrapper .wp-block-categories__post-count,
+.editor-styles-wrapper .wp-block-archives__post-count {
+    float: left;
+}

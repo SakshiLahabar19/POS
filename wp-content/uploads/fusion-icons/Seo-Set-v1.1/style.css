@@ -1,0 +1,110 @@
+@font-face {
+  font-family: 'Seo-Set';
+  src:
+    url('fonts/Seo-Set.ttf?kj1zta') format('truetype'),
+    url('fonts/Seo-Set.woff?kj1zta') format('woff'),
+    url('fonts/Seo-Set.svg?kj1zta#Seo-Set') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-seo-"], [class*=" icon-seo-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'Seo-Set' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-seo-angle-right-solid:before {
+  content: "\e900";
+}
+.icon-seo-building-solid:before {
+  content: "\e901";
+}
+.icon-seo-chart-bar-solid:before {
+  content: "\e902";
+}
+.icon-seo-chart-line-solid:before {
+  content: "\e903";
+}
+.icon-seo-child-solid:before {
+  content: "\e904";
+}
+.icon-seo-clock-solid:before {
+  content: "\e905";
+}
+.icon-seo-cog-solid:before {
+  content: "\e906";
+}
+.icon-seo-envelope-solid:before {
+  content: "\e907";
+}
+.icon-seo-google-brands:before {
+  content: "\e908";
+}
+.icon-seo-handshake-solid:before {
+  content: "\e909";
+}
+.icon-seo-heartbeat-solid:before {
+  content: "\e90a";
+}
+.icon-seo-map-marker-alt-solid:before {
+  content: "\e90b";
+}
+.icon-seo-paw-solid:before {
+  content: "\e90c";
+}
+.icon-seo-pencil-alt-solid:before {
+  content: "\e90d";
+}
+.icon-seo-phone-solid:before {
+  content: "\e90e";
+}
+.icon-seo-phone-volume-solid:before {
+  content: "\e90f";
+}
+.icon-seo-road-solid:before {
+  content: "\e910";
+}
+.icon-seo-search-solid:before {
+  content: "\e911";
+}
+.icon-seo-sign-language-solid:before {
+  content: "\e912";
+}
+.icon-seo-star-solid:before {
+  content: "\e913";
+}
+.icon-seo-tint-solid:before {
+  content: "\e914";
+}
+.icon-seo-user-friends-solid:before {
+  content: "\e915";
+}
+.icon-seo-users-solid:before {
+  content: "\e916";
+}
+.icon-seo-utensils-solid:before {
+  content: "\e917";
+}
+.icon-seo-video-solid:before {
+  content: "\e918";
+}
+.icon-seo-walking-solid:before {
+  content: "\e919";
+}
+.icon-seo-bars-solid:before {
+  content: "\e91a";
+}
+.icon-seo-times-solid:before {
+  content: "\e91b";
+}
